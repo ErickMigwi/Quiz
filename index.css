@@ -1,0 +1,127 @@
+*{
+    /* font-family: 'Outfit', sans-serif; */
+
+  
+
+    font-family: 'Ubuntu', sans-serif;
+}
+#imageE{
+    
+    border-radius: 7px;
+    background-color: hsl(145, 58%, 55%);
+}
+#imageSoc{
+    
+    border-radius: 7px;
+    background-color: hsl(264, 64%, 52%);
+}
+#imageP{
+    
+    border-radius: 7px;
+    background-color:hsl(195, 74%, 62%) ;
+}
+#imageSt{
+    border-radius: 7px;
+    background-color: hsl(348, 100%, 68%);
+}
+h5{
+    color: white;
+}
+#image{
+    background-color:hsl(15, 100%, 70%);
+    margin: 0px;
+}
+#imageS{
+    background-color:hsl(43, 84%, 65%) ;
+}
+#main{
+    display: grid;
+    grid-template-areas:
+      "col1"
+      "col2"
+      "col3"
+      "col4";
+    grid-template-columns: 200px 200px 200px 200px;
+    
+    grid-gap: 40px;
+    /* grid-template-rows: auto 1fr auto; */
+}
+h6{
+    color: hsl(236, 100%, 87%);
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    color: white;
+     font-family: 'Rubik', sans-serif;
+}
+#margin{
+    margin-left: 15px;
+}
+#margin1{
+    margin-left: 15px;
+    
+}
+#JEREMY{
+    background-color:hsl(246, 80%, 60%) ;
+    height: 45vh;
+    border-radius: 15px;
+}
+body{
+     height: 100vh;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+    background-color:hsl(226, 43%, 10%) ;
+}
+#work{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+     background-color: hsl(235, 46%, 20%);
+     border-radius: 15px;
+}
+
+#exercise{
+    height: 30vh;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px;
+}
+#play{
+    height: 30vh;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px;
+}
+#social{
+    height: 30vh;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px;
+}
+#study{
+    height: 30vh;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px;
+}
+#selfcare{
+    height: 30vh;
+    background-color: hsl(235, 46%, 20%); 
+    border-radius: 15px;
+}
+#jeremy{
+    width: 80px;
+
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#daily{
+    background-color:hsl(235, 46%, 20%) ;
+    border-radius: 15px;
+}
+#col1{
+    background-color: hsl(235, 46%, 20%) ;
+    border-radius: 15px;
+    height: 62.5vh
+};
+#jeremy2{
+    height: 42.5vh;
+}
