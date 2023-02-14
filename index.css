@@ -6,21 +6,26 @@
     font-family: 'Ubuntu', sans-serif;
 }
 #imageE{
-    
+    display: flex;
+    justify-content: end;
     border-radius: 7px;
     background-color: hsl(145, 58%, 55%);
 }
 #imageSoc{
-    
+    display: flex;
+    justify-content: end;
     border-radius: 7px;
     background-color: hsl(264, 64%, 52%);
 }
 #imageP{
-    
+    display: flex;
+    justify-content: end;
     border-radius: 7px;
     background-color:hsl(195, 74%, 62%) ;
 }
 #imageSt{
+    display: flex;
+    justify-content: end;
     border-radius: 7px;
     background-color: hsl(348, 100%, 68%);
 }
@@ -28,10 +33,14 @@ h5{
     color: white;
 }
 #image{
+    display: flex;
+    justify-content: end;
     background-color:hsl(15, 100%, 70%);
     margin: 0px;
 }
 #imageS{
+    display: flex;
+    justify-content: end;
     background-color:hsl(43, 84%, 65%) ;
 }
 #main{
